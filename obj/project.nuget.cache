@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HMCAaI7KmZlC1RFINattIxw0Gr/WBeOUaMpeUFUobqzV3+cCXKBX+qY+3UDPpD/NHx4vCV1FClV1qJXoRkeDtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lilia\\Epicodus\\ASP.NET\\MvcApiCall\\MvcApiCall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lilia\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\lilia\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
